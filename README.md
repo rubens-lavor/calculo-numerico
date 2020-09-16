@@ -1,10 +1,12 @@
 # calculo-numerico
-## Métodos Numéricos ##
 
 
+## Plotar gráficos ##
 **ex6.py** - Plotar os gráficos das funções f(x) = x^3 + x^2 − x,
 x ∈ [−2, 2] e g(x) = sin(x^2) com x ∈ [−2, 2]
 
+
+## Métodos Numéricos ##
 **ex7.py** - Métodos de Zeros de Funções, com o erro (b−a)/2.
 (bissecção, ponto fixo, newton e secante)
 
