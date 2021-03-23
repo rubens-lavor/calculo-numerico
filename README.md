@@ -5,29 +5,29 @@
 
 >(1) Dê o código em python para plotar o gráfico da função 
 
-  f(x) = x² + xcos(x) − x − 2;
+    f(x) = x² + xcos(x) − x − 2;
 
-  com x ∈ [−3, 4].
+    com x ∈ [−3, 4].
 
 ---
 
 >(2) Dê o código em python para somar os vetores:
     
-  (1, 2, 3, 4, 5, · · · , 100) + (1, 1, 1, 1, 1, · · · , 1)
+    (1, 2, 3, 4, 5, · · · , 100) + (1, 1, 1, 1, 1, · · · , 1)
 
-  (1, 2, 3, 4, 5, · · · , 100) + (1, 3, 5, 7, 9, · · · , 199)
+    (1, 2, 3, 4, 5, · · · , 100) + (1, 3, 5, 7, 9, · · · , 199)
 
 ---
 
 >(3) Dê o código em python para gerar os 100 primeiros πi’s, usando essa relação derecorrência.
 
-  (PI)n = (PI)n−1 +(4(−1)^n)/(2n + 1)
+    (PI)n = (PI)n−1 +(4(−1)^n)/(2n + 1)
 
 ---
 
 >(4) Dê o código em python para gerar π com precisão EA < 0.00001, usando essa relaçãode recorrência. 
 
-  (PI)n = (PI)n−1 +(4(−1)^n)/(2n + 1)
+    (PI)n = (PI)n−1 +(4(−1)^n)/(2n + 1)
 
 ---
 
@@ -39,21 +39,21 @@ colocado números inteiros nessa soma. Lembre de escrever a mensagem avisando o 
 
 >(6) Dê o código em python para plotar os gráficos das funções 
 
-  f(x) = x^3 + x^2 − x; com x ∈ [−2, 2] e 
+    f(x) = x^3 + x^2 − x; com x ∈ [−2, 2] e 
 
-  g(x) = sin(x^2); com x ∈ [−2, 2]
+    g(x) = sin(x^2); com x ∈ [−2, 2]
 
 ---
 
 >(7) Dê os códigos em python para os 4 métodos de Zeros de Funções, com o erro (b−a)/2.
 
-  1.Método da bissecção
+    1.Método da bissecção
 
-  2.Método do ponto fixo
+    2.Método do ponto fixo
 
-  3.Método de Newton  f(x)=x²-sin(x)
+    3.Método de Newton  f(x)=x²-sin(x)
 
-  4.Método da secante  f(x)=cos(x)-e^x
+    4.Método da secante  f(x)=cos(x)-e^x
 
 
 
